@@ -1,5 +1,3 @@
-### Hi there 👋
-
 👋 Hello! I am Rakesh Vajrapu, a passionate and driven freshman at Vignan's Institute of Information Technology, pursuing a B.Tech in Computer Science and Engineering. Additionally, I am concurrently pursuing a BS in Data Science from IIT Madras. My curiosity and love for technology have led me to delve deep into the fascinating realms of Artificial Intelligence and Machine Learning.
 
 Recently, I had the opportunity to work as a Content Research Intern at Infosys Springboard, where I gained hands-on experience in content creation and strategy development. I collaborated with a talented team and contributed to increasing engagement and reach for the company. I also developed a strong understanding of content research practices and industry trends.
